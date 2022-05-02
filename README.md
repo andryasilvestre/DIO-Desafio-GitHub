@@ -7,3 +7,7 @@ Como exemplo, irei utilizar alguns códigos simples (não revisados) de um dos p
 [Verificar qual o maior número entre dois números](https://replit.com/@AndryaLuna/exercicio-1#main.c)
 
 [Verificar se o número é negativo ou positivo.](https://replit.com/@AndryaLuna/exercicio-2#main.c)
+
+--------------
+
+###### Esse repositório pode e deverá ser alterado em breve...
