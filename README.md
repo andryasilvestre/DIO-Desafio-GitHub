@@ -4,6 +4,7 @@ Desafio de Projeto do curso introd. ao Git e ao GitHub, além do teste da escrit
 Como exemplo, irei utilizar alguns códigos simples (não revisados) de um dos primeiros exercícios em C do primeiro período do curso de ADS.
 
 # Exemplos: 
+###### Os links abaixo redirecionarão para o Replit.com
 [Verificar qual o maior número entre dois números](https://replit.com/@AndryaLuna/exercicio-1#main.c)
 
 [Verificar se o número é negativo ou positivo.](https://replit.com/@AndryaLuna/exercicio-2#main.c)
